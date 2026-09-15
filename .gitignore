@@ -1,4 +1,5 @@
 *.directory
+/Test Cases
 /GLIGO_ENG_NB
 *.git
 *.obsidian
